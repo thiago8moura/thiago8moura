@@ -25,7 +25,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">       
 </div>
   
-  ##
+ - ## Perfil / Contato
   
   <div> 
     
